@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "email-server.cjs",
   "scripts": {
-    "start": "node email-server.cjs"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
